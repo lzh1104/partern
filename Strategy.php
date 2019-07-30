@@ -8,7 +8,7 @@ interface Strategy {
 }
 
 /**
- *  找乔国老帮忙是孙权不能杀刘备
+ *  找乔国老帮忙，使孙权不能杀刘备
  */
 class BackDoor implements Strategy {
     public function operate() {
